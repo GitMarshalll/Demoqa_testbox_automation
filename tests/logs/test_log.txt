@@ -94,3 +94,51 @@
 2025-05-18 21:20:09,961 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-20-09.png
 2025-05-18 21:20:10,013 [INFO] permanentadd kiritildi
 2025-05-18 21:20:10,095 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-20-10.png
+2025-05-18 21:34:45,393 [INFO] username kiritildi
+2025-05-18 21:34:45,488 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-45.png
+2025-05-18 21:34:45,550 [INFO] email kiritildi
+2025-05-18 21:34:45,658 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-45.png
+2025-05-18 21:34:45,718 [INFO] currentadd kiritildi
+2025-05-18 21:34:45,835 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-45.png
+2025-05-18 21:34:45,890 [INFO] permanentadd kiritildi
+2025-05-18 21:34:45,976 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-45.png
+2025-05-18 21:34:54,957 [INFO] username kiritildi
+2025-05-18 21:34:55,048 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-54.png
+2025-05-18 21:34:55,129 [INFO] email kiritildi
+2025-05-18 21:34:55,207 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-55.png
+2025-05-18 21:34:55,269 [INFO] currentadd kiritildi
+2025-05-18 21:34:55,357 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-55.png
+2025-05-18 21:34:55,417 [INFO] permanentadd kiritildi
+2025-05-18 21:34:55,498 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-34-55.png
+2025-05-18 21:35:04,666 [INFO] username kiritildi
+2025-05-18 21:35:04,760 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-35-04.png
+2025-05-18 21:35:04,824 [INFO] email kiritildi
+2025-05-18 21:35:04,908 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-35-04.png
+2025-05-18 21:35:04,968 [INFO] currentadd kiritildi
+2025-05-18 21:35:05,042 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-35-04.png
+2025-05-18 21:35:05,098 [INFO] permanentadd kiritildi
+2025-05-18 21:35:05,176 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-35-05.png
+2025-05-18 21:38:58,239 [INFO] username kiritildi
+2025-05-18 21:38:58,374 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-38-58.png
+2025-05-18 21:38:58,436 [INFO] email kiritildi
+2025-05-18 21:38:58,529 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-38-58.png
+2025-05-18 21:38:58,589 [INFO] currentadd kiritildi
+2025-05-18 21:38:58,695 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-38-58.png
+2025-05-18 21:38:58,748 [INFO] permanentadd kiritildi
+2025-05-18 21:38:58,844 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-38-58.png
+2025-05-18 21:39:09,728 [INFO] username kiritildi
+2025-05-18 21:39:09,860 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-09.png
+2025-05-18 21:39:09,919 [INFO] email kiritildi
+2025-05-18 21:39:10,001 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-09.png
+2025-05-18 21:39:10,065 [INFO] currentadd kiritildi
+2025-05-18 21:39:10,149 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-10.png
+2025-05-18 21:39:10,203 [INFO] permanentadd kiritildi
+2025-05-18 21:39:10,277 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-10.png
+2025-05-18 21:39:19,095 [INFO] username kiritildi
+2025-05-18 21:39:19,231 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-19.png
+2025-05-18 21:39:19,288 [INFO] email kiritildi
+2025-05-18 21:39:19,378 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-19.png
+2025-05-18 21:39:19,435 [INFO] currentadd kiritildi
+2025-05-18 21:39:19,512 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-19.png
+2025-05-18 21:39:19,566 [INFO] permanentadd kiritildi
+2025-05-18 21:39:19,647 [INFO] Screenshot saved: screenshots/screenshot_2025-05-18_21-39-19.png

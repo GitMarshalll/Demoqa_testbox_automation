@@ -7,5 +7,3 @@ def run_all():
     test_negative()
     test_text_box_latin()
 
-if __name__ == "__main__":
-    run_all()
